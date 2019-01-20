@@ -2,9 +2,5 @@
   "CSS Basics": [
     { "name": "Align Grid Float", "uri": "alignmentgrid-float" },
     { "name": "Align Grid Flex", "uri": "alignmentgrid-float" }
-  ],
-  "Advanced Topics": [
-    { "name": "Align Grid Float", "uri": "alignmentgrid-float" },
-    { "name": "Align Grid Flex", "uri": "alignmentgrid-float" }
   ]
 }

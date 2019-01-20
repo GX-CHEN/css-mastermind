@@ -8,10 +8,11 @@ import { generateMapFromMapOfArray } from '../util/processUriMap';
 class App extends React.Component {
   constructor(props) {
     super(props);
+    const firstItemKey = Object.keys(uriData)[0];
     this.state = {
       sidebarOpen: true,
       uriMap: generateMapFromMapOfArray(uriData),
-      selectedName: uriData['JS Basics'][0].name,
+      selectedName: uriData[firstItemKey][0].name,
       permanentSideBar: false,
     };
   }
