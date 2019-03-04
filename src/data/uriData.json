@@ -1,6 +1,8 @@
 {
   "CSS Basics": [
-    { "name": "Align Grid Float", "uri": "alignmentgrid-float" },
-    { "name": "Align Grid Flex", "uri": "alignmentgrid-float" }
+    { "name": "Align Grid Float", "uri": "samerowfloat" },
+    { "name": "Align Grid Flex", "uri": "samerowflex" },
+    { "name": "Center Transform", "uri": "samerowflex" },
+    { "name": "Center Flex", "uri": "centerflex" }
   ]
 }
