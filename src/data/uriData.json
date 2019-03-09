@@ -1,8 +1,20 @@
 {
-  "CSS Basics": [
+  "Basics": [
     { "name": "Align Grid Float", "uri": "samerowfloat" },
     { "name": "Align Grid Flex", "uri": "samerowflex" },
-    { "name": "Center Transform", "uri": "samerowflex" },
-    { "name": "Center Flex", "uri": "centerflex" }
+    { "name": "Center Transform", "uri": "centertransform" },
+    { "name": "Center Flex", "uri": "centerflexbox" }
+  ],
+  "Flex": [
+    { "name": "Align Grid Float", "uri": "samerowfloat" },
+    { "name": "Align Grid Flex", "uri": "samerowflex" },
+    { "name": "Center Transform", "uri": "centertransform" },
+    { "name": "Center Flex", "uri": "centerflexbox" }
+  ],
+  "Tricky": [
+    { "name": "Align Grid Float", "uri": "samerowfloat" },
+    { "name": "Align Grid Flex", "uri": "samerowflex" },
+    { "name": "Center Transform", "uri": "centertransform" },
+    { "name": "Center Flex", "uri": "centerflexbox" }
   ]
 }
